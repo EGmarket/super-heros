@@ -4,9 +4,11 @@ This project was bootstrapped with [Create React App](https://techbd.netlify.app
 
 ## Available Scripts
 
- Markup : * APPS DATA HAS BEEN STORED IN LOCALLY 
+* APPS DATA HAS BEEN STORED IN LOCALLY 
           * We Used Fontawesome icon in this project
           * If You need any best tech person You can easily get from our sites
+          
+          * APPS DATA HAS BEEN STORED IN LOCALLY 
          
 
 In the project directory, you can run:
