@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://techbd.netlify.app
 * We Used Fontawesome icon in this project
 * If You need any best tech person You can easily get from our sites
           
-          * We are regularly updating 
+  * We are regularly updating 
          
 
 In the project directory, you can run:
