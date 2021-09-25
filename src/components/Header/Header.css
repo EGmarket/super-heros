@@ -1,0 +1,22 @@
+/* Font */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;1,400;1,500&display=swap');
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+body::before {
+    content: "";
+    background-image: url('../Images/background.jpg');
+    background-size: cover;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: -3200px;
+    left: 0px;
+    opacity: 0.7;
+}
+
+.total-budget {
+    margin-right: 100px;
+}

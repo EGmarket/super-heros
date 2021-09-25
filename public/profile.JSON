@@ -1,0 +1,218 @@
+[{
+        "key": "2021092501",
+        "name": "Jhankar Mahabub",
+        "role": "Head of ProgrammingHero",
+        "age": "36",
+        "country": "BD",
+        "salary": 500000,
+        "star": 4.6,
+        "starCount": 3245,
+        "img": "https://media-exp1.licdn.com/dms/image/C4D03AQFnCtX8U_7F_g/profile-displayphoto-shrink_200_200/0/1517278202728?e=1637798400&v=beta&t=1wCKygR_a-QJehq6GDUgVObVufQtIfBG0xp4F6s0KKk"
+
+    },
+    {
+        "key": "2021092502",
+        "name": "Md. Asaduzzaman",
+        "role": "Head of cIndex[c]",
+        "age": "30",
+        "country": "BD",
+        "salary": 200000,
+        "star": 3.6,
+        "starCount": 320,
+        "img": "https://avatars.githubusercontent.com/u/50999869?v=4"
+
+    },
+    {
+        "key": "2021092503",
+        "name": "Bill Gates",
+        "role": "Microsoft cofounder",
+        "age": "65",
+        "country": "USA",
+        "salary": 700000,
+        "star": 4.4,
+        "starCount": 3210,
+        "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT12cP23udqvCqHW_2oAvK257g3oVQkv23tOumxtpfFOhHi8a5B"
+
+    },
+    {
+        "key": "2021092504",
+        "name": "Jeff Bezos",
+        "role": "Michael Seto/Business Insider",
+        "age": "57",
+        "country": "USA",
+        "salary": 750000,
+        "star": 4.7,
+        "starCount": 32450,
+        "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT12cP23udqvCqHW_2oAvK257g3oVQkv23tOumxtpfFOhHi8a5B"
+
+    },
+    {
+        "key": "2021092505",
+        "name": "larry ellison",
+        "role": "co-founder of Oracle",
+        "age": "77",
+        "country": "USA",
+        "salary": 650000,
+        "star": 4.9,
+        "starCount": 324525,
+        "img": "http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcSUadwflQXaMZhx4HNJ9yjmPkQnKQoKRk4_yuC4WjgjjsAXdV5_QFZERdRTShHG"
+
+    },
+    {
+        "key": "2021092506",
+        "name": "Mark Zuckerberg",
+        "role": "Founder of Facebook",
+        "age": "37",
+        "country": "USA",
+        "salary": 850000,
+        "star": 4.4,
+        "starCount": 3245,
+        "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS1rDH_nWadT1GXFPomdutqV1PUMA8uXIWS2Js5_fq4pJ1lwG16"
+
+    },
+    {
+        "key": "2021092507",
+        "name": "Larry Page",
+        "role": "computer scientist",
+        "age": "48",
+        "country": "USA",
+        "salary": 800000,
+        "star": 4.6,
+        "starCount": 32451,
+        "img": "http://t2.gstatic.com/licensed-image?q=tbn:ANd9GcQQ840Wk_80H2JjO4wmYQ8VpNzck-GCsmu8a4HqMDNoeZNAH5Zw8qkRZc9a2C9v"
+
+    },
+    {
+        "key": "2021092508",
+        "name": "Sergey Brin",
+        "role": "American business magnate",
+        "age": "48",
+        "country": "RUSSIA",
+        "salary": 700000,
+        "star": 3.6,
+        "starCount": 3245,
+        "img": "https://www.biography.com/.image/t_share/MTc5ODc5NTMxMDczOTcxMzIy/gettyimages-456023687.jpg"
+
+    },
+    {
+        "key": "2021092509",
+        "name": "Jack Ma",
+        "role": "chairman of Alibaba Group",
+        "age": "57",
+        "country": "CHINA",
+        "salary": 890000,
+        "star": 4.9,
+        "starCount": 3245,
+        "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605e22fe6df966b3fcbd3e15%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D0%26cropX2%3D1080%26cropY1%3D0%26cropY2%3D1080"
+
+    },
+    {
+        "key": "2021092510",
+        "name": "Elon Musk",
+        "role": " CEO and Chief Engineer at SpaceX",
+        "age": "50",
+        "country": "SOUTH AFRICA",
+        "salary": 1000000,
+        "star": 5.0,
+        "starCount": 32455,
+        "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQU2JRbbl3LBOm_an3eI5iplFhOoLESyBwUfmWDO49BS1EYuGUE"
+
+    },
+    {
+        "key": "2021092511",
+        "name": "Ma Huateng",
+        "role": "founder, chairman and chief executive officer of Tencent",
+        "age": "49",
+        "country": "CHINA",
+        "salary": 1900000,
+        "star": 4.2,
+        "starCount": 324512,
+        "img": "http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcRCnkm_uhLm5vIxoX5bubdCblh9evCm9Nli8Sc6Xlx530dmRHSjByd4rwSlWff2"
+
+    },
+    {
+        "key": "2021092512",
+        "name": "Steve Ballmer",
+        "role": "chief executive officer of Microsoft",
+        "age": "65",
+        "country": "USA",
+        "salary": 1500000,
+        "star": 4.0,
+        "starCount": 32545,
+        "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcREsD76ssKhVnGC2J8KUJjt5HrMgFBCNIeaoL9nG5XaOIM281G7"
+
+    },
+    {
+        "key": "2021092513",
+        "name": "Jun Lei",
+        "role": "founder of Xiaomi",
+        "age": "51",
+        "country": "CHINA",
+        "salary": 500000,
+        "star": 4.4,
+        "starCount": 324556,
+        "img": "http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcRIc9LQ_75vXn6ww6v2_On0eDKVutsMyHPt7yrrQP5qW1KDXkMB4JZcOWnwd_xw"
+
+    },
+    {
+        "key": "2021092514",
+        "name": "Lee Kun-hee",
+        "role": "Chairman of SAMSUNG",
+        "age": "78",
+        "country": "KOREA",
+        "salary": 1500000,
+        "star": 4.6,
+        "starCount": 38245,
+        "img": "https://techstartups.com/wp-content/uploads/2020/10/Samsung-Chairman-Lee-Kun-hee.jpg"
+
+    },
+    {
+        "key": "2021092515",
+        "name": "Azim Premji",
+        "role": "Indian business tycoon",
+        "age": "76",
+        "country": "IND",
+        "salary": 520000,
+        "star": 3.9,
+        "starCount": 32458,
+        "img": "http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcTY0UJTlxflOgmFeQBKOr4pyaHyDo2xmmgy9VQkWOVR_he7zqTiE-uk3GToJBe-"
+
+    },
+    {
+        "key": "2021092516",
+        "name": "Paul Allen",
+        "role": "computer programmer",
+        "age": "65",
+        "country": "USA",
+        "salary": 350000,
+        "star": 3.6,
+        "starCount": 3245,
+        "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSg1US5wY137arXMGUszqHrOBbiJeGQYhN9DsRrkQnQFJDGliM3"
+
+    },
+    {
+        "key": "2021092517",
+        "name": "Michael S. Dell",
+        "role": "founder, chairman and CEO of Dell Technologies",
+        "age": "56",
+        "country": "USA",
+        "salary": 352000,
+        "star": 4.6,
+        "starCount": 5245,
+        "img": "http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcS480Yr_mWt5cm8IxYVel_jdNUJ_AwxnespEqgGLEowFspcxFsk3MgPudlr02Rp"
+
+    },
+    {
+        "key": "2021092518",
+        "name": "David Packard",
+        "role": "Head of Hp",
+        "age": "72",
+        "country": "USA",
+        "salary": 50000,
+        "star": 3.6,
+        "starCount": 325,
+        "img": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/David_Packard.jpg/220px-David_Packard.jpg"
+
+    }
+
+]

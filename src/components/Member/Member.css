@@ -1,0 +1,19 @@
+.img-size {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    margin-left: 35px;
+}
+
+.new-card {
+    width: 400px;
+    text-align: center;
+    background-color: rgb(29, 29, 51);
+    border-radius: 20px;
+    box-shadow: 1px 1px 2px 2px #ecebeb;
+}
+
+.new-box {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
