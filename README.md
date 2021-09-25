@@ -1,6 +1,6 @@
 # Make a Tech Team For Future
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://techbd.netlify.app/).
 
 ## Available Scripts
 
