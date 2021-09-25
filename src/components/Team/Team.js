@@ -1,9 +1,11 @@
 import React, { useEffect, useState } from 'react';
+import Cart from '../Cart/Cart';
 import Member from '../Member/Member';
 import './Team.css'
 
 const Team = () => {
     const [members,setMembers] = useState([])
+    const [cart, setCart] = useState([])
 
     // main data load useEffect
     useEffect(()=>{
@@ -12,6 +14,13 @@ const Team = () => {
         .then(data => setMembers(data))
     },[])
 
+    // add event on button
+    const handleAddToCart = (member) =>{
+        const newCart = [...cart,member]
+        setCart(newCart)
+    }
+
+
     return (
         <div className="team-container">
             <div className="member-container">
@@ -19,12 +28,12 @@ const Team = () => {
                     members.map(member => <Member
                     key={member.key}
                     member = {member}
-                    
+                    handleAddToCart = {handleAddToCart}
                     ></Member>)
                 }
             </div>
             <div className="cart-container mt-4 mx-5">
-                <h1>This is your cart</h1>
+                <Cart cart={cart}></Cart>
             </div>
         </div>
     );

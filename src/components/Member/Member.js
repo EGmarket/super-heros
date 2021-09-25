@@ -18,7 +18,7 @@ const Member = (props) => {
                 <p className="card-text">Age: {age}</p>
                 <p className="card-text">Salary: $ {salary}</p>
                 <p className="card-text">Raitings:  {star}</p>
-                <a className="btn btn-primary"> <FontAwesomeIcon icon={faShoppingCart} /> add to cart</a>
+                <button onClick = {()=> props.handleAddToCart(props.member)} className="btn btn-primary"> <FontAwesomeIcon icon={faShoppingCart} /> add to cart</button>
             </div>
             </div>
         </div>
