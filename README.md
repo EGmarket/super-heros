@@ -11,6 +11,8 @@ This project was bootstrapped with [Create React App](https://techbd.netlify.app
                    * We are regularly updating
                    * Please evaluate me with larger display , in small display my design is Broken, Thanks in advance 
          
+## MY SITES LOOKS LIKE
+![Screenshot_10](https://user-images.githubusercontent.com/50999869/134787210-246def7d-acc9-47b2-ba0d-a1e0528562c6.png)
 
 In the project directory, you can run:
 
