@@ -5,10 +5,10 @@ This project was bootstrapped with [Create React App](https://techbd.netlify.app
 ## Available Scripts
 
 * APPS DATA HAS BEEN STORED IN LOCALLY 
-          * We Used Fontawesome icon in this project
-          * If You need any best tech person You can easily get from our sites
+* We Used Fontawesome icon in this project
+* If You need any best tech person You can easily get from our sites
           
-          * APPS DATA HAS BEEN STORED IN LOCALLY 
+          * We are regularly updating 
          
 
 In the project directory, you can run:
